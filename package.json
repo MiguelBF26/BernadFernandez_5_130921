@@ -1,18 +1,15 @@
 {
-  "name": "orinoco-backend",
+  "name": "kanap-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "sass": "sass --watch ./sass/main.scss:./public/css/style.css"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "js": "^0.1.0",
-    "json": "^11.0.0",
-    "sass": "^1.32.13",
     "uuid": "^3.3.2"
   }
 }
